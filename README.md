@@ -1,7 +1,7 @@
 # Hi there 👋, it´s Adriana
 
 
-**`BIMManager VisualProgramer** 
+**`BIMManager VisualProgramer`** 
 
 
 🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
