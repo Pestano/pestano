@@ -1,11 +1,8 @@
 # Hi there 👋, it´s Adriana
 
 
-**Pestano/pestano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`BIMManager VisualProgramer** 
 
-Esto es una prueba a ver si sale
-
-Here are some ideas to get you started:
 
 🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
 - 🌱 I’m currently learning ...
