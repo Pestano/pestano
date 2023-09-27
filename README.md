@@ -1,4 +1,4 @@
-# Hi there 👋, it´s Adriana
+# Hi there 👋, it´s Adriana 
 
 
 **`BIMManager / VisualProgramer`**
@@ -10,12 +10,14 @@
 
 ---
 
-<🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
+<!--
+🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
 🌱 I’m currently learning Dynamo, Grasshopper, Rhino and Python.
 - 👯 I’m looking to collaborate on architectural projects where automatization by programming is needed, also computational design..."[EstoEsUnaPrueba]"
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...>
+- ⚡ Fun fact: ...
+-->
 
