@@ -1,7 +1,9 @@
 # Hi there 👋, it´s Adriana 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+BIM+Automation;I+love+Computer+Design)](https://git.io/typing-svg)
 
 **`BIMManager / VisualProgramer`**
+
 
 👷‍♀️ Architect & BIM Manager | 🖥️ Exploring Visual Programming for AEC Automation.
 🏗️ As an Architect and BIM Manager, I bring design expertise to the realm of digital construction. My journey into the world of programming focuses on visual languages to automate processes in the Architecture, Engineering, and Construction (AEC) industry.
@@ -10,6 +12,7 @@
 
 ---
 
+I do have other interests like drawing 😊, padel tennis 🎾 , but here we'll only talk `code` 🤓
 <!--
 🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
 🌱 I’m currently learning Dynamo, Grasshopper, Rhino and Python.
