@@ -1,7 +1,9 @@
 # Hi there 👋, it´s Adriana
 
-<!--
+
 **Pestano/pestano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Esto es una prueba a ver si sale
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
