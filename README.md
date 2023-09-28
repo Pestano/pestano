@@ -5,14 +5,16 @@
 **`BIMManager / VisualProgramer`**
 
 
-👷‍♀️ Architect & BIM Manager | 🖥️ Exploring Visual Programming for AEC Automation.
-🏗️ As an Architect and BIM Manager, I bring design expertise to the realm of digital construction. My journey into the world of programming focuses on visual languages to automate processes in the Architecture, Engineering, and Construction (AEC) industry.
-🤖 Currently mastering Python 🐍, Dynamo for Revit 🔌, and Grasshopper 🌿 to bridge the gap between creativity and technology in the AEC sector. My goal is to create efficient workflows, enhance collaboration, and optimize building design through code-driven solutions.
-🔗 Let's connect and collaborate on the exciting intersection of architecture, technology, and automation!
+👷‍♀️ Architect & BIM Manager | currently working in some BIM stuffs.
+🤖 and learning Dynamo for Revit, Python 🐍 and Grasshopper  
+💬 My goal is to create efficient workflows, enhance collaboration, and optimize building design through code-driven solutions.
+🔗 How to reach me: pestanoa@gmail.com, you can also find me on Linkedin
 
----
+----------              -----------------
 
-I do have other interests like drawing 😊, padel tennis 🎾 , but here we'll only talk `code` 🤓
+# Resourses:
+My Revit Wiki https://precious-piano-43e.notion.site/4d1957065392454d82d29f26b6b8d669?v=9b96490e9ad849bf9cfcb5978c004da3&pvs=4 
+Baby steps workflow in Revit https://precious-piano-43e.notion.site/PASO-A-PASO-PROYECTO-EN-REVIT-19330169d4184dfc974db6a70cfebfb8?pvs=4
 <!--
 🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
 🌱 I’m currently learning Dynamo, Grasshopper, Rhino and Python.
