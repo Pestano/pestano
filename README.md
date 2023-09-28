@@ -12,9 +12,9 @@
 
 ----------              -----------------
 
-# Resourses:
-My Revit Wiki https://precious-piano-43e.notion.site/4d1957065392454d82d29f26b6b8d669?v=9b96490e9ad849bf9cfcb5978c004da3&pvs=4 
-Baby steps workflow in Revit https://precious-piano-43e.notion.site/PASO-A-PASO-PROYECTO-EN-REVIT-19330169d4184dfc974db6a70cfebfb8?pvs=4
+# Resources:
+* My Revit Wiki https://precious-piano-43e.notion.site/4d1957065392454d82d29f26b6b8d669?v=9b96490e9ad849bf9cfcb5978c004da3&pvs=4 
+* Baby steps workflow in Revit https://precious-piano-43e.notion.site/PASO-A-PASO-PROYECTO-EN-REVIT-19330169d4184dfc974db6a70cfebfb8?pvs=4
 <!--
 🔭 I’m currently working on a big project as a BIM Manager. Colaborating with Lamela Studio from Madrid.
 🌱 I’m currently learning Dynamo, Grasshopper, Rhino and Python.
