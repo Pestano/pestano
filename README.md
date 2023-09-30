@@ -6,8 +6,11 @@
 
 
 👷‍♀️ Architect & BIM Manager | currently working in some BIM stuffs.
+
 🤖 and learning Dynamo for Revit, Python 🐍 and Grasshopper  
+
 💬 My goal is to create efficient workflows, enhance collaboration, and optimize building design through code-driven solutions.
+
 🔗 How to reach me: pestanoa@gmail.com, you can also find me on Linkedin
 
 ----------              -----------------
